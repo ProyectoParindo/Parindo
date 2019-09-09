@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455988442188",
+    "firebase_url": "https://parindo.firebaseio.com",
+    "project_id": "parindo",
+    "storage_bucket": "parindo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455988442188:android:5c346495f7c16df29a30e9",
+        "android_client_info": {
+          "package_name": "com.parindo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455988442188-sri6sjvbffi32vqm6q63um5157frq4s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parindo",
+            "certificate_hash": "c794751bbc5d6d7be25af4fb278167b60085b77d"
+          }
+        },
+        {
+          "client_id": "455988442188-vlpbo6huqhhj63i40fjsnbc4m3spd9lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjk8HnUz3mjOtV4q6J6G3P7D6FwfGLdmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455988442188-vlpbo6huqhhj63i40fjsnbc4m3spd9lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
